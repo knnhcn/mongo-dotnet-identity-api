@@ -10,7 +10,7 @@
     <PackageReference Include="AspNetCore.Identity.Mongo" Version="5.2.1" />
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.2.6" />
-    <PackageReference Include="MongoDB.Driver" Version="2.9.1" />
+    <PackageReference Include="MongoDB.Driver" Version="2.19.0" />
     <PackageReference Include="OpenIddict" Version="2.0.0" />
     <PackageReference Include="OpenIddict.MongoDb" Version="2.0.0" />
     <PackageReference Include="OpenIddict.Mvc" Version="2.0.0" />
